@@ -1,0 +1,14 @@
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\bin\Debug\net9.0\lastNRevert.exe
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\bin\Debug\net9.0\lastNRevert.deps.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\bin\Debug\net9.0\lastNRevert.runtimeconfig.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\bin\Debug\net9.0\lastNRevert.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\bin\Debug\net9.0\lastNRevert.pdb
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\obj\Debug\net9.0\lastNRevert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\obj\Debug\net9.0\lastNRevert.AssemblyInfoInputs.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\obj\Debug\net9.0\lastNRevert.AssemblyInfo.cs
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\obj\Debug\net9.0\lastNRevert.csproj.CoreCompileInputs.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\obj\Debug\net9.0\lastNRevert.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\obj\Debug\net9.0\refint\lastNRevert.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\obj\Debug\net9.0\lastNRevert.pdb
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\obj\Debug\net9.0\lastNRevert.genruntimeconfig.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\lastNRevert\obj\Debug\net9.0\ref\lastNRevert.dll

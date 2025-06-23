@@ -1,0 +1,14 @@
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\bin\Debug\net9.0\averageOf4Numbers.exe
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\bin\Debug\net9.0\averageOf4Numbers.deps.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\bin\Debug\net9.0\averageOf4Numbers.runtimeconfig.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\bin\Debug\net9.0\averageOf4Numbers.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\bin\Debug\net9.0\averageOf4Numbers.pdb
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\obj\Debug\net9.0\averageOf4Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\obj\Debug\net9.0\averageOf4Numbers.AssemblyInfoInputs.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\obj\Debug\net9.0\averageOf4Numbers.AssemblyInfo.cs
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\obj\Debug\net9.0\averageOf4Numbers.csproj.CoreCompileInputs.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\obj\Debug\net9.0\averageOf4Numbers.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\obj\Debug\net9.0\refint\averageOf4Numbers.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\obj\Debug\net9.0\averageOf4Numbers.pdb
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\obj\Debug\net9.0\averageOf4Numbers.genruntimeconfig.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\averageOf4Numbers\obj\Debug\net9.0\ref\averageOf4Numbers.dll

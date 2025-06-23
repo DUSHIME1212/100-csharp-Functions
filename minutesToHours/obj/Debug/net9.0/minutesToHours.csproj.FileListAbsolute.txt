@@ -1,0 +1,14 @@
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\bin\Debug\net9.0\minutesToHours.exe
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\bin\Debug\net9.0\minutesToHours.deps.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\bin\Debug\net9.0\minutesToHours.runtimeconfig.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\bin\Debug\net9.0\minutesToHours.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\bin\Debug\net9.0\minutesToHours.pdb
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\obj\Debug\net9.0\minutesToHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\obj\Debug\net9.0\minutesToHours.AssemblyInfoInputs.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\obj\Debug\net9.0\minutesToHours.AssemblyInfo.cs
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\obj\Debug\net9.0\minutesToHours.csproj.CoreCompileInputs.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\obj\Debug\net9.0\minutesToHours.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\obj\Debug\net9.0\refint\minutesToHours.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\obj\Debug\net9.0\minutesToHours.pdb
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\obj\Debug\net9.0\minutesToHours.genruntimeconfig.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\minutesToHours\obj\Debug\net9.0\ref\minutesToHours.dll

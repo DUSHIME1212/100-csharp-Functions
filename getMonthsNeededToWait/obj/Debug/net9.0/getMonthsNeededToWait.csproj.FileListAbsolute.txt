@@ -1,0 +1,14 @@
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\bin\Debug\net9.0\getMonthsNeededToWait.exe
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\bin\Debug\net9.0\getMonthsNeededToWait.deps.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\bin\Debug\net9.0\getMonthsNeededToWait.runtimeconfig.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\bin\Debug\net9.0\getMonthsNeededToWait.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\bin\Debug\net9.0\getMonthsNeededToWait.pdb
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\obj\Debug\net9.0\getMonthsNeededToWait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\obj\Debug\net9.0\getMonthsNeededToWait.AssemblyInfoInputs.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\obj\Debug\net9.0\getMonthsNeededToWait.AssemblyInfo.cs
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\obj\Debug\net9.0\getMonthsNeededToWait.csproj.CoreCompileInputs.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\obj\Debug\net9.0\getMonthsNeededToWait.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\obj\Debug\net9.0\refint\getMonthsNeededToWait.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\obj\Debug\net9.0\getMonthsNeededToWait.pdb
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\obj\Debug\net9.0\getMonthsNeededToWait.genruntimeconfig.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\getMonthsNeededToWait\obj\Debug\net9.0\ref\getMonthsNeededToWait.dll
