@@ -16,7 +16,7 @@ class Program
             throw new ArgumentException("Step must be greater than 0.");
         }
 
-        StringBuilder result = new StringBuilder();
+        char[] result = new char[(message.Length)];
 
         for (int i = 0; i < message.Length; i++)
         {
