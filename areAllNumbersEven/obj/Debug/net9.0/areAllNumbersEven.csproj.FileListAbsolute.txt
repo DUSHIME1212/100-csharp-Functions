@@ -1,0 +1,15 @@
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\bin\Debug\net9.0\areAllNumbersEven.exe
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\bin\Debug\net9.0\areAllNumbersEven.deps.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\bin\Debug\net9.0\areAllNumbersEven.runtimeconfig.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\bin\Debug\net9.0\areAllNumbersEven.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\bin\Debug\net9.0\areAllNumbersEven.pdb
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\obj\Debug\net9.0\areAllNumbersEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\obj\Debug\net9.0\areAllNumbersEven.AssemblyInfoInputs.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\obj\Debug\net9.0\areAllNumbersEven.AssemblyInfo.cs
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\obj\Debug\net9.0\areAllNumbersEven.csproj.CoreCompileInputs.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\obj\Debug\net9.0\areAllNumbersEven.sourcelink.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\obj\Debug\net9.0\areAllNumbersEven.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\obj\Debug\net9.0\refint\areAllNumbersEven.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\obj\Debug\net9.0\areAllNumbersEven.pdb
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\obj\Debug\net9.0\areAllNumbersEven.genruntimeconfig.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\areAllNumbersEven\obj\Debug\net9.0\ref\areAllNumbersEven.dll

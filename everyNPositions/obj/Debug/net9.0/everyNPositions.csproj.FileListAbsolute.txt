@@ -1,0 +1,15 @@
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\bin\Debug\net9.0\everyNPositions.exe
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\bin\Debug\net9.0\everyNPositions.deps.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\bin\Debug\net9.0\everyNPositions.runtimeconfig.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\bin\Debug\net9.0\everyNPositions.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\bin\Debug\net9.0\everyNPositions.pdb
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\obj\Debug\net9.0\everyNPositions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\obj\Debug\net9.0\everyNPositions.AssemblyInfoInputs.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\obj\Debug\net9.0\everyNPositions.AssemblyInfo.cs
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\obj\Debug\net9.0\everyNPositions.csproj.CoreCompileInputs.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\obj\Debug\net9.0\everyNPositions.sourcelink.json
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\obj\Debug\net9.0\everyNPositions.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\obj\Debug\net9.0\refint\everyNPositions.dll
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\obj\Debug\net9.0\everyNPositions.pdb
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\obj\Debug\net9.0\everyNPositions.genruntimeconfig.cache
+C:\Users\dushi\OneDrive\Desktop\100c#questions\everyNPositions\obj\Debug\net9.0\ref\everyNPositions.dll
