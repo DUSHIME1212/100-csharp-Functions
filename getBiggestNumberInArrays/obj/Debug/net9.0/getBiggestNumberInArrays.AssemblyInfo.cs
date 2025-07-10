@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("getBiggestNumberInArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c69b6f36046d6730f94a74b05cd600f627ea139d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ab2283c2dfbe89142f133400908a470f68f399d")]
 [assembly: System.Reflection.AssemblyProductAttribute("getBiggestNumberInArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("getBiggestNumberInArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
