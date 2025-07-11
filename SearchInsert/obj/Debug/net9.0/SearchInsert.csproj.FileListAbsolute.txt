@@ -1,0 +1,15 @@
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\bin\Debug\net9.0\SearchInsert.exe
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\bin\Debug\net9.0\SearchInsert.deps.json
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\bin\Debug\net9.0\SearchInsert.runtimeconfig.json
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\bin\Debug\net9.0\SearchInsert.dll
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\bin\Debug\net9.0\SearchInsert.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\obj\Debug\net9.0\SearchInsert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\obj\Debug\net9.0\SearchInsert.AssemblyInfoInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\obj\Debug\net9.0\SearchInsert.AssemblyInfo.cs
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\obj\Debug\net9.0\SearchInsert.csproj.CoreCompileInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\obj\Debug\net9.0\SearchInsert.sourcelink.json
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\obj\Debug\net9.0\SearchInsert.dll
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\obj\Debug\net9.0\refint\SearchInsert.dll
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\obj\Debug\net9.0\SearchInsert.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\obj\Debug\net9.0\SearchInsert.genruntimeconfig.cache
+C:\Users\don360\Desktop\100-csharp-Functions\SearchInsert\obj\Debug\net9.0\ref\SearchInsert.dll

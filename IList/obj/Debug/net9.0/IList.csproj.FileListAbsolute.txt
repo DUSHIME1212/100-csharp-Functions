@@ -1,0 +1,15 @@
+C:\Users\don360\Desktop\100-csharp-Functions\IList\bin\Debug\net9.0\IList.exe
+C:\Users\don360\Desktop\100-csharp-Functions\IList\bin\Debug\net9.0\IList.deps.json
+C:\Users\don360\Desktop\100-csharp-Functions\IList\bin\Debug\net9.0\IList.runtimeconfig.json
+C:\Users\don360\Desktop\100-csharp-Functions\IList\bin\Debug\net9.0\IList.dll
+C:\Users\don360\Desktop\100-csharp-Functions\IList\bin\Debug\net9.0\IList.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\IList\obj\Debug\net9.0\IList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\don360\Desktop\100-csharp-Functions\IList\obj\Debug\net9.0\IList.AssemblyInfoInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\IList\obj\Debug\net9.0\IList.AssemblyInfo.cs
+C:\Users\don360\Desktop\100-csharp-Functions\IList\obj\Debug\net9.0\IList.csproj.CoreCompileInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\IList\obj\Debug\net9.0\IList.sourcelink.json
+C:\Users\don360\Desktop\100-csharp-Functions\IList\obj\Debug\net9.0\IList.dll
+C:\Users\don360\Desktop\100-csharp-Functions\IList\obj\Debug\net9.0\refint\IList.dll
+C:\Users\don360\Desktop\100-csharp-Functions\IList\obj\Debug\net9.0\IList.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\IList\obj\Debug\net9.0\IList.genruntimeconfig.cache
+C:\Users\don360\Desktop\100-csharp-Functions\IList\obj\Debug\net9.0\ref\IList.dll

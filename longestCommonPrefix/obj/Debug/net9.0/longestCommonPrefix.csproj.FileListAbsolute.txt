@@ -1,0 +1,15 @@
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\bin\Debug\net9.0\longestCommonPrefix.exe
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\bin\Debug\net9.0\longestCommonPrefix.deps.json
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\bin\Debug\net9.0\longestCommonPrefix.runtimeconfig.json
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\bin\Debug\net9.0\longestCommonPrefix.dll
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\bin\Debug\net9.0\longestCommonPrefix.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\obj\Debug\net9.0\longestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\obj\Debug\net9.0\longestCommonPrefix.AssemblyInfoInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\obj\Debug\net9.0\longestCommonPrefix.AssemblyInfo.cs
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\obj\Debug\net9.0\longestCommonPrefix.csproj.CoreCompileInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\obj\Debug\net9.0\longestCommonPrefix.sourcelink.json
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\obj\Debug\net9.0\longestCommonPrefix.dll
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\obj\Debug\net9.0\refint\longestCommonPrefix.dll
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\obj\Debug\net9.0\longestCommonPrefix.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\obj\Debug\net9.0\longestCommonPrefix.genruntimeconfig.cache
+C:\Users\don360\Desktop\100-csharp-Functions\longestCommonPrefix\obj\Debug\net9.0\ref\longestCommonPrefix.dll

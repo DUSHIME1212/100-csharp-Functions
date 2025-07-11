@@ -1,0 +1,15 @@
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\bin\Debug\net9.0\ValidParentheses.exe
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\bin\Debug\net9.0\ValidParentheses.deps.json
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\bin\Debug\net9.0\ValidParentheses.runtimeconfig.json
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\bin\Debug\net9.0\ValidParentheses.dll
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\bin\Debug\net9.0\ValidParentheses.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\obj\Debug\net9.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\obj\Debug\net9.0\ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\obj\Debug\net9.0\ValidParentheses.AssemblyInfo.cs
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\obj\Debug\net9.0\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\obj\Debug\net9.0\ValidParentheses.sourcelink.json
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\obj\Debug\net9.0\ValidParentheses.dll
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\obj\Debug\net9.0\refint\ValidParentheses.dll
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\obj\Debug\net9.0\ValidParentheses.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\obj\Debug\net9.0\ValidParentheses.genruntimeconfig.cache
+C:\Users\don360\Desktop\100-csharp-Functions\ValidParentheses\obj\Debug\net9.0\ref\ValidParentheses.dll

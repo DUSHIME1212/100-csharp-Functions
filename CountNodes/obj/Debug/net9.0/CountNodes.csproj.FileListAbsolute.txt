@@ -1,0 +1,15 @@
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\obj\Debug\net9.0\CountNodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\obj\Debug\net9.0\CountNodes.AssemblyInfoInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\obj\Debug\net9.0\CountNodes.AssemblyInfo.cs
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\obj\Debug\net9.0\CountNodes.csproj.CoreCompileInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\obj\Debug\net9.0\CountNodes.sourcelink.json
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\bin\Debug\net9.0\CountNodes.exe
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\bin\Debug\net9.0\CountNodes.deps.json
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\bin\Debug\net9.0\CountNodes.runtimeconfig.json
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\bin\Debug\net9.0\CountNodes.dll
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\bin\Debug\net9.0\CountNodes.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\obj\Debug\net9.0\CountNodes.dll
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\obj\Debug\net9.0\refint\CountNodes.dll
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\obj\Debug\net9.0\CountNodes.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\obj\Debug\net9.0\CountNodes.genruntimeconfig.cache
+C:\Users\don360\Desktop\100-csharp-Functions\CountNodes\obj\Debug\net9.0\ref\CountNodes.dll

@@ -1,0 +1,15 @@
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\bin\Debug\net9.0\4Sum.exe
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\bin\Debug\net9.0\4Sum.deps.json
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\bin\Debug\net9.0\4Sum.runtimeconfig.json
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\bin\Debug\net9.0\4Sum.dll
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\bin\Debug\net9.0\4Sum.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\obj\Debug\net9.0\4Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\obj\Debug\net9.0\4Sum.AssemblyInfoInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\obj\Debug\net9.0\4Sum.AssemblyInfo.cs
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\obj\Debug\net9.0\4Sum.csproj.CoreCompileInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\obj\Debug\net9.0\4Sum.sourcelink.json
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\obj\Debug\net9.0\4Sum.dll
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\obj\Debug\net9.0\refint\4Sum.dll
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\obj\Debug\net9.0\4Sum.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\obj\Debug\net9.0\4Sum.genruntimeconfig.cache
+C:\Users\don360\Desktop\100-csharp-Functions\4Sum\obj\Debug\net9.0\ref\4Sum.dll
