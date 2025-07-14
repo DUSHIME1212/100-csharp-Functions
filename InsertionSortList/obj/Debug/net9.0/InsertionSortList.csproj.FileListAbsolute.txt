@@ -1,0 +1,15 @@
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\bin\Debug\net9.0\InsertionSortList.exe
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\bin\Debug\net9.0\InsertionSortList.deps.json
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\bin\Debug\net9.0\InsertionSortList.runtimeconfig.json
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\bin\Debug\net9.0\InsertionSortList.dll
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\bin\Debug\net9.0\InsertionSortList.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\obj\Debug\net9.0\InsertionSortList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\obj\Debug\net9.0\InsertionSortList.AssemblyInfoInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\obj\Debug\net9.0\InsertionSortList.AssemblyInfo.cs
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\obj\Debug\net9.0\InsertionSortList.csproj.CoreCompileInputs.cache
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\obj\Debug\net9.0\InsertionSortList.sourcelink.json
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\obj\Debug\net9.0\InsertionSortList.dll
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\obj\Debug\net9.0\refint\InsertionSortList.dll
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\obj\Debug\net9.0\InsertionSortList.pdb
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\obj\Debug\net9.0\InsertionSortList.genruntimeconfig.cache
+C:\Users\don360\Desktop\100-csharp-Functions\InsertionSortList\obj\Debug\net9.0\ref\InsertionSortList.dll

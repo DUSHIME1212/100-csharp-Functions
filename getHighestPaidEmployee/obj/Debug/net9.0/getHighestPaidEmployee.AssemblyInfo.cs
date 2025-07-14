@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("getHighestPaidEmployee")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89b932f6eb113d957fee3a38bb86a2cf276bc622")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe19597e5ee99b04e7c40fdab76a61aefed161ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("getHighestPaidEmployee")]
 [assembly: System.Reflection.AssemblyTitleAttribute("getHighestPaidEmployee")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
